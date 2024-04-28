@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="База_учеников.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Банк_заданий.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="просмотр_теста.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Добавить_вопрос.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="П_выбор.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Пароль.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="С_выбор.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Случайный_вариант.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Тестирование.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ФИО.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
