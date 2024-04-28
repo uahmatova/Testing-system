@@ -1,0 +1,56 @@
+C:\Users\uahma\source\repos\ТП работает\bin\Debug\net6.0-windows\ТП работает.exe
+C:\Users\uahma\source\repos\ТП работает\bin\Debug\net6.0-windows\ТП работает.deps.json
+C:\Users\uahma\source\repos\ТП работает\bin\Debug\net6.0-windows\ТП работает.runtimeconfig.json
+C:\Users\uahma\source\repos\ТП работает\bin\Debug\net6.0-windows\ТП работает.dll
+C:\Users\uahma\source\repos\ТП работает\bin\Debug\net6.0-windows\ref\ТП работает.dll
+C:\Users\uahma\source\repos\ТП работает\bin\Debug\net6.0-windows\ТП работает.pdb
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП работает.csproj.AssemblyReference.cache
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.Form1.resources
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.Банк_заданий.resources
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.Пароль.resources
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.Тестирование.resources
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП работает.csproj.GenerateResource.cache
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП работает.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП работает.AssemblyInfoInputs.cache
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП работает.AssemblyInfo.cs
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП работает.csproj.CoreCompileInputs.cache
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП работает.dll
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ref\ТП работает.dll
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП работает.pdb
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП работает.genruntimeconfig.cache
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.Properties.Resources.resources
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.П_выбор.resources
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.Добавить_вопрос.resources
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.ФИО.resources
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.просмотр_теста.resources
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.С_выбор.resources
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.Случайный_вариант.resources
+C:\Users\uahma\source\repos\ТП работает\obj\Debug\net6.0-windows\ТП_работает.База_учеников.resources
+C:\Users\uahma\source\repos\ТП работает — копия\bin\Debug\net6.0-windows\ТП работает.exe
+C:\Users\uahma\source\repos\ТП работает — копия\bin\Debug\net6.0-windows\ТП работает.deps.json
+C:\Users\uahma\source\repos\ТП работает — копия\bin\Debug\net6.0-windows\ТП работает.runtimeconfig.json
+C:\Users\uahma\source\repos\ТП работает — копия\bin\Debug\net6.0-windows\ТП работает.dll
+C:\Users\uahma\source\repos\ТП работает — копия\bin\Debug\net6.0-windows\ref\ТП работает.dll
+C:\Users\uahma\source\repos\ТП работает — копия\bin\Debug\net6.0-windows\ТП работает.pdb
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП работает.csproj.AssemblyReference.cache
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.Form1.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.Properties.Resources.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.База_учеников.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.Банк_заданий.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.Добавить_вопрос.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.П_выбор.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.Пароль.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.просмотр_теста.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.С_выбор.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.Случайный_вариант.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.Тестирование.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП_работает.ФИО.resources
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП работает.csproj.GenerateResource.cache
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП работает.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП работает.AssemblyInfoInputs.cache
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП работает.AssemblyInfo.cs
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП работает.csproj.CoreCompileInputs.cache
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП работает.dll
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ref\ТП работает.dll
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП работает.pdb
+C:\Users\uahma\source\repos\ТП работает — копия\obj\Debug\net6.0-windows\ТП работает.genruntimeconfig.cache
